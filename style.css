@@ -1,0 +1,30 @@
+h1{
+    color: white;
+    background-color: black;
+    font-family: monospace;
+    font-size:5em;
+    margin: 10px 0px;
+}
+
+h1 a{
+    color: cyan;
+}
+
+h2{
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    font-size: 2em;
+    text-align: center;
+    margin: 1px;
+}
+
+h3{
+    color: purple;
+    background-color: skyblue;
+    text-align: right;
+    font-family: cursive;
+    font-weight: lighter;
+    font-size: 1.25em;
+    margin: 10px 0px;
+}
